@@ -39,3 +39,12 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+button.contact {
+  background-color: rgb(254, 50, 71);
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #ffe03f;
+  border-radius: 10px;
+  }
